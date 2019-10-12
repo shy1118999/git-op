@@ -1,6 +1,7 @@
 # git-op
 Git命令大全
-﻿git常用命令
+```
+git常用命令
 	创建或收集项目
 		git init
 		git clone <url>
@@ -376,3 +377,4 @@ git config --global user.name <yourname>
 
 git config --global user.email <you@somedomain.com>
 设置你的邮箱，用于commit认证
+```
